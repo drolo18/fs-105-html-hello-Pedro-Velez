@@ -16,3 +16,15 @@ input::-webkit-inner-spin-button {
 input[type=number] {
   -moz-appearance: textfield;
 }
+h1{
+  margin: 10px;
+}
+#button1{
+  margin: 10px;
+}
+#button2{
+  margin: 10px;
+}
+#formulario{
+  margin-top: 1rem;
+}
